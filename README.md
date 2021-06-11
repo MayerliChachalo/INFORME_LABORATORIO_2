@@ -8,9 +8,13 @@ Integrantes: Chachalo Mayerli, Mensias Adrian Rosero Andres
 
 **Objetivo general** 
 
-Comprobar experimentalmente el análisis de Mallas
+Comprobar experimentalmente y analíticamente el método de mallas usado en circuitos cerrados, además de poder analizar la corriente del circuito y ver como esta interactua con los diferentes elementos del circuito.
 
 **Objetivos específicos**
+
+1. Reconocer los diferentes métodos para analizar las corrientes que existen en un circuito combinandolo con la Ley de Kirchhoff para la encontrar las ecuaciones que nos ayudarán a encontrar las corrientes del circuito.
+2. Visualizar a simple vista un circuito en paralelo e identificar las mallas que en el se encuentran para poder encontrar la corriente en cada una de ellas.
+3. Corroborar que en un circuito en paralelo el voltaje es el mismo en todo el circuito mientras que la corriente varia en las diferentes ramas del mismo.
 
 ### 2.  MARCO TEORICO
 
