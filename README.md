@@ -1,6 +1,6 @@
 # INFORME_LABORATORIO_2
 
-Integrantes: Chachalo Mayerli, Mensias Adrian Rosero Andres
+Integrantes: Chachalo Mayerli, Mensias Adrian, Rosero Andres
 
 ## **PRÁCTICA No.2**
 
@@ -22,8 +22,7 @@ Comprobar experimentalmente y analíticamente el método de mallas usado en circ
 
 3.1 **REQUISITOS PREVIOS**
 
-Se requiere el análisis analítico del circuito mostrado en la figura 2.1., mediante la técnica del análisis de mallas. El valor obtenido de cada corriente de malla anótelo en la tabla 3.2.1
-
+Se requiere el análisis analítico del circuito mostrado en la figura 2.1, mediante la técnica del análisis de mallas. El valor obtenido de cada corriente de malla anótelo en la tabla 2.1
 
 3.2 **NFORMACIÓN GENERAL**
 
@@ -45,7 +44,7 @@ Una malla es una trayectoria cerrada que no encierra dentro de sí a ningún ele
 
 3.2 **PROCEDIMIENTO**
 
- 3.2.1 Implemente el circuito que se presenta en la figura 3.1.
+ 3.2.1 Implemente el circuito que se presenta en la figura 2.1.
 
 <div align="center">
       
