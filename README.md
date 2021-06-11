@@ -23,9 +23,9 @@ Se requiere el análisis analítico del circuito mostrado en la figura 2.1., med
 
 3.2 **NFORMACIÓN GENERAL**
 
-El análisisi de mallas es un técnica que hace uso de la L VK para expresar voltajes en funcion de corrientes.
+El análisis de mallas es un técnica que hace uso de la LVK para expresar voltajes en funcion de corrientes.
 
-Una malla es una trayectoria cerrada no encierra dentro de sí a ningún elemento del circuito.
+Una malla es una trayectoria cerrada que no encierra dentro de sí a ningún elemento del circuito.
 
 3.3 **MATERIAL Y EQUIPO REQUERIDO**
 
