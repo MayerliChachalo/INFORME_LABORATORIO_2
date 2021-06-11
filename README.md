@@ -18,6 +18,8 @@ Comprobar experimentalmente y analíticamente el método de mallas usado en circ
 
 ### 2.  MARCO TEORICO
 
+![image](https://user-images.githubusercontent.com/75383758/121648322-020b5b00-ca5d-11eb-91ef-f7f5e0514d4a.png)
+
 ### 3.  EXPLICACION DEL PROCEDIMIENTO 
 
 3.1 **REQUISITOS PREVIOS**
