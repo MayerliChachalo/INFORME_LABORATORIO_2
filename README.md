@@ -67,6 +67,8 @@ Una malla es una trayectoria cerrada que no encierra dentro de sí a ningún ele
 
   ![image](https://user-images.githubusercontent.com/75383758/121641478-d97f6300-ca54-11eb-9c92-a7e457af86c8.png)
  
+  ![image](https://user-images.githubusercontent.com/75383758/121643366-5b708b80-ca57-11eb-8451-05c0db151821.png) 
+ 
   </div>
 
   3.2.4 Compare los valores de la tabla 2.1 y realice sus concluciones.
@@ -87,6 +89,6 @@ Una malla es una trayectoria cerrada que no encierra dentro de sí a ningún ele
 
 ### 6.  CONCLUCIONES 
 
-
+1. El desarrollo de esta práctica se llevó a cabo gracias a los conocimientos impartidos en clase sobre el método de las corrientes de mallas junto con la Ley de Kirchhoff para la medición decorrientes.
 
 ### 7.  BIBLIOGRAFÍA
