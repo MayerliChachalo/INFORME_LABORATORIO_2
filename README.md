@@ -68,7 +68,7 @@ Una malla es una trayectoria cerrada que no encierra dentro de sí a ningún ele
   |   1    | 11.454 mA |       |
   |   2    | 2.847 mA |       |
   |   3    | 0.488 mA |       |
-  |   ∑I   | 14.789 mA |       |
+  |   ∑ I   | 14.789 mA |       |
   | %Error |       |       |
 ### 5.  VIDEO
 
