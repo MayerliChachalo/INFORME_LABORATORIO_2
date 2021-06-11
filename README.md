@@ -61,7 +61,7 @@ Una malla es una trayectoria cerrada que no encierra dentro de sí a ningún ele
 
   ![image](https://user-images.githubusercontent.com/75383758/121641228-886f6f00-ca54-11eb-9a3e-fa661ddb5e31.png)
 
-  ![image](https://user-images.githubusercontent.com/75383758/121641262-958c5e00-ca54-11eb-81f1-fb0f880ed9f8.png)
+  ![image](https://user-images.githubusercontent.com/75383758/121641478-d97f6300-ca54-11eb-9c92-a7e457af86c8.png)
 
   3.2.4 Compare los valores de la tabla 2.1 y realice sus concluciones.
   
