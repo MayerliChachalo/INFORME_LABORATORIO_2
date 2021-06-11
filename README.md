@@ -75,13 +75,13 @@ Una malla es una trayectoria cerrada que no encierra dentro de sí a ningún ele
   
   Tabla 2.1 REsultados obtenidos para el circuito de la figura 2.1
   
-  | **MALLA** | **Resultados Analíticos** | **Resultados simulados** | 
-  | :---: | :---: | :---: |
-  |   1    | 11.454 mA | 11.5 mA |
-  |   2    | 2.847 mA | 2.85 mA |
-  |   3    | 0.488 mA | 0.488 mA |
-  |   ∑ I   | 14.789 mA | 14.838 mA |
-  | %Error |       -0.33       |
+  | **MALLA** | **Resultados Analíticos** | **Resultados simulados** | **% Error** |
+  | :---: | :---: | :---: | :---: |
+  |   1    | 11.454 mA | 11.5 mA | -0.40 |
+  |   2    | 2.847 mA | 2.85 mA | -0.11 |
+  |   3    | 0.488 mA | 0.488 mA | 0 |
+  |   ∑ I   | 14.789 mA | 14.838 mA | ∑ %Error = -0.51 |
+  | %Error | -0.33 |       |
  
 ### 5.  VIDEO
 
@@ -90,5 +90,11 @@ Una malla es una trayectoria cerrada que no encierra dentro de sí a ningún ele
 ### 6.  CONCLUCIONES 
 
 1. El desarrollo de esta práctica se llevó a cabo gracias a los conocimientos impartidos en clase sobre el método de las corrientes de mallas junto con la Ley de Kirchhoff para la medición decorrientes.
+2. Se pudo notar que cuando mayor sea la resistencia menos corriente pasará a través de la misma, pero si la resistencia es menor, la corriente que pase a través de ella será mucho mayor.
+3. La aplicación de la Ley de Kirchhoff y el Método de las corrientes de malla nos ayuda a analizar los circuitos de CD y con esto poder entender el funcionamiento real de la CD.
 
 ### 7.  BIBLIOGRAFÍA
+
+SENSORICX. 2021. ▷ CIRCUITOS ELECTRICOS:【ANÁLISIS DE MALLAS】. [online] Available at: <https://sensoricx.com/circuitos-electricos-dc/como-efectuar-analisis-de-circuitos-por-mallas/> [Accessed 11 June 2021].
+
+Khan Academy. 2021. El método de la corriente de malla (artículo) | Khan Academy. [online] Available at: <https://es.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-dc-circuit-analysis/a/ee-mesh-current-method> [Accessed 11 June 2021].
