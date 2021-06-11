@@ -8,7 +8,7 @@ Integrantes: Chachalo Mayerli, Mensias Adrian Rosero Andres
 
 **Objetivo general** 
 
-Comprobar experimentalmete el análisis de Mallas
+Comprobar experimentalmente el análisis de Mallas
 
 **Objetivos específicos**
 
@@ -65,9 +65,11 @@ Una malla es una trayectoria cerrada que no encierra dentro de sí a ningún ele
   
   | **MALLA** | **Resultados Analíticos** | **Resultados simulados** | 
   | :---: | :---: | :---: |
-  |   1    |       |       |
-  |   2    |       |       |
-  |   3    |       |       |
+  |   1    | 11.454 mA |       |
+  |   2    | 2.847 mA |       |
+  |   3    | 0.488 mA |       |
+  |   ∑I   | 14.789 mA |       |
+  | %Error |       |       |
 ### 5.  VIDEO
 
 
