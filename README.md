@@ -10,7 +10,7 @@ Integrantes: Chachalo Mayerli, Mensias Adrian Rosero Andres
 
 Comprobar experimentalmete el análisis de Mallas
 
-**Objetivos espesíficos**
+**Objetivos específicos**
 
 ### 2.  MARCO TEORICO
 
