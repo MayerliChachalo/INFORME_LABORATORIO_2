@@ -60,6 +60,8 @@ Una malla es una trayectoria cerrada que no encierra dentro de sí a ningún ele
   3.2.3 Simule en el software Multisim, Proteus, o cualquier otro simulador, el circuito de la figura 2.1, obteniendo los valores de las corrientes de malla. Anote los resultados en la tabla 2.1.
   
   <div align="center">
+ 
+ ### Circuito armado en Tinkercad
   
   ![image](https://user-images.githubusercontent.com/75383758/121633253-0e38ed80-ca48-11eb-8c00-a4bdffe9f04b.png)
  
@@ -71,7 +73,7 @@ Una malla es una trayectoria cerrada que no encierra dentro de sí a ningún ele
   
   ![image](https://user-images.githubusercontent.com/75383758/121633147-e3e73000-ca47-11eb-9a1f-9feac9eb42d4.png)
  
- ### Calculos Manuales
+ ### Calculos Analíticos
 
   ![image](https://user-images.githubusercontent.com/75383758/121641228-886f6f00-ca54-11eb-9a3e-fa661ddb5e31.png)
 
@@ -95,7 +97,7 @@ Una malla es una trayectoria cerrada que no encierra dentro de sí a ningún ele
  
 ### 5.  VIDEO
 
-https://youtu.be/-uCyliq_8dQ
+https://youtu.be/-uCyliq_8dQ 
 
 ### 6.  CONCLUCIONES 
 
