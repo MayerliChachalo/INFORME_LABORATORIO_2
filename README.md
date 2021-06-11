@@ -97,3 +97,5 @@ Una malla es una trayectoria cerrada que no encierra dentro de sí a ningún ele
 SENSORICX. 2021. ▷ CIRCUITOS ELECTRICOS:【ANÁLISIS DE MALLAS】. [online] Available at: <https://sensoricx.com/circuitos-electricos-dc/como-efectuar-analisis-de-circuitos-por-mallas/> [Accessed 11 June 2021].
 
 Khan Academy. 2021. El método de la corriente de malla (artículo) | Khan Academy. [online] Available at: <https://es.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-dc-circuit-analysis/a/ee-mesh-current-method> [Accessed 11 June 2021].
+
+Tinkercad. 2021. Tinkercad | From mind to design in minutes. [online] Available at: <https://www.tinkercad.com/things/1gbZKV483Hd-swanky-jaagub/editel?sharecode=XsGd0cWJkEQ7PwZATgoqIyTs2gaitIF4bB-53Y8f2AE> [Accessed 11 June 2021].
